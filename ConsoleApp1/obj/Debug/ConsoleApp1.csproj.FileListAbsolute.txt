@@ -1,0 +1,7 @@
+G:\trabalho\dotnet\Logica\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+G:\trabalho\dotnet\Logica\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+G:\trabalho\dotnet\Logica\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+G:\trabalho\dotnet\Logica\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+G:\trabalho\dotnet\Logica\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+G:\trabalho\dotnet\Logica\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+G:\trabalho\dotnet\Logica\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

@@ -1,0 +1,7 @@
+G:\trabalho\dotnet\Logica\Exercicio02\bin\Debug\Exercicio02.exe.config
+G:\trabalho\dotnet\Logica\Exercicio02\bin\Debug\Exercicio02.exe
+G:\trabalho\dotnet\Logica\Exercicio02\bin\Debug\Exercicio02.pdb
+G:\trabalho\dotnet\Logica\Exercicio02\obj\Debug\Exercicio02.csproj.AssemblyReference.cache
+G:\trabalho\dotnet\Logica\Exercicio02\obj\Debug\Exercicio02.csproj.CoreCompileInputs.cache
+G:\trabalho\dotnet\Logica\Exercicio02\obj\Debug\Exercicio02.exe
+G:\trabalho\dotnet\Logica\Exercicio02\obj\Debug\Exercicio02.pdb
